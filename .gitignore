@@ -1,0 +1,6 @@
+
+### 🗂️ 2. Add `.gitignore`:
+```gitignore
+node_modules/
+dist/
+users.json

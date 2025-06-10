@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "name": "assesment_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.15.30",
+    "fetch-cookie": "^3.1.0",
+    "jsdom": "^26.1.0",
+    "node-fetch": "^2.7.0",
+    "tough-cookie": "^5.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node-fetch": "^2.6.12",
+    "eslint": "^9.28.0"
+  }
+}
